@@ -26,7 +26,7 @@ namespace MonoGameSetupTutorial
         int letterNum = 0;
         double time;
         char[] title = new char[11] { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' };
-        string newTitle = "Hurry up!!!";
+        string newTitle = "Let's play!!!";
         int timer = 0;
 
         public Game1()
